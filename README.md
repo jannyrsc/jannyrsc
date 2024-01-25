@@ -1,4 +1,4 @@
-### Olá,  eu sou Janny Raissa  😊!
+### Olá,  eu sou Janny Raissa ❤️!
 
 <div style="display: inline_block"><br>
 	 <img align="center" alt="Janny-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
@@ -6,7 +6,7 @@
 	
   ##
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&bg_color=ff94c2&title_color=ffffff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&bg_color=c8a2c8&title_color=ffffff)
 	
 <div>
 	<a href="https://www.instagram.com/jannyrsc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
