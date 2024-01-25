@@ -6,7 +6,7 @@
 	
   ##
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&bg_color=ff94c2&title_color=ffffff)
 	
 <div>
 	<a href="https://www.instagram.com/jannyrsc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
