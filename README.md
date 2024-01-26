@@ -1,5 +1,6 @@
-## Olá,  eu sou Janny Raissa ❤️!  	
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&bg_color=c8a2c8&title_color=ffffff&text_color=ffffff&langs_count=ffffff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Janny+Raissa+💜!) 
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&bg_color=c8a2c8&title_color=ffffff&text_color=ffffff&langs_count=ffffff)
   <div style="display: inline_block">
 	 <span style="margin-bottom: 50px; display: inline-block;"></span>
 	 <img align="center" alt="Janny-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" 
