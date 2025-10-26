@@ -6,7 +6,7 @@
 <div style="display: inline_block">
 	 <span style="margin-bottom: 50px; display: inline-block;"></span>
          <img align="center" alt="Janny-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" alt="Janny-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+         <img align="center" alt="Janny-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 	 <img align="center" alt="Janny-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	 <img align="center" alt="Janny-Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>   
