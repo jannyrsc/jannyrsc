@@ -11,11 +11,6 @@
 	 <img align="center" alt="Janny-Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>   
 
-  #
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jannyrsc&bg_color=c8a2c8&color=ffffff&line=8451a1&point=ffffff&area=true&hide_border=true" width="8000" height="270">	 
-  
-#
-
  <div>
 	<a href="https://www.instagram.com/jannyrsc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href= "https://www.linkedin.com/in/janny-cruz-07506a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
