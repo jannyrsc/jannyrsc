@@ -1,19 +1,31 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8a2c8&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Janny+Raissa+💜!) 
-#
-<div>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannyrsc&layout=compact&langs_count=7&bg_color=c8a2c8&title_color=ffffff&text_color=ffffff&area=true&hide_border=true">
-</div>
-<div style="display: inline_block">
-	 <span style="margin-bottom: 50px; display: inline-block;"></span>
-         <img align="center" alt="Janny-HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-         <img align="center" alt="Janny-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-	 <img align="center" alt="Janny-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	 <img align="center" alt="Janny-Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>   
+<div align="center">
 
- <div>
-	<a href="https://www.instagram.com/jannyrsc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href= "https://www.linkedin.com/in/janny-cruz-07506a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        <a href = "mailto:jannyraissa15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+# Oi, eu sou Janny Raissa! 💜
+
+**Desenvolvedora em evolução, criando soluções com código e criatividade.**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500" alt="Animação de uma menina desenvolvendo no computador">
+
+<a href="https://www.linkedin.com/in/janny-cruz-07506a269/"><img src="https://img.shields.io/badge/LinkedIn-c8a2c8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jannyraissa15@gmail.com"><img src="https://img.shields.io/badge/E--mail-c8a2c8?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://www.instagram.com/jannyrsc/"><img src="https://img.shields.io/badge/Instagram-c8a2c8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 </div>
 
+---
+
+### Sobre mim
+
+Gosto de transformar ideias em interfaces e aplicações úteis. Aqui compartilho meus estudos e experiências com desenvolvimento.
+
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" alt="HTML, CSS, JavaScript e Java">
+</p>
+
+---
+
+<div align="center">
+  <sub>Obrigada pela visita! ✨</sub>
+  <br>
+</div>
