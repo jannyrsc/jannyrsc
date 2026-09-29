@@ -2,7 +2,7 @@
 
 # Oi, eu sou Janny Raissa! 💜
 
-**Desenvolvedora em evolução, criando soluções com código e criatividade.**
+**Desenvolvedora, criando soluções com código e criatividade.**
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500" alt="Animação de uma menina desenvolvendo no computador">
 
 <a href="https://www.linkedin.com/in/janny-cruz-07506a269/"><img src="https://img.shields.io/badge/LinkedIn-c8a2c8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
